@@ -15,12 +15,7 @@ class Products {
       "Mauris et fermentum tellus. Vestibulum eu efficitur est. "
       "Nulla eu nunc quis diam condimentum fermentum at ac eros. "
       "Etiam et consectetur elit. Nam nunc libero, blandit vel mollis eget,"
-      " imperdiet nec lectus. Morbi eros enim, tempor vitae neque in, "
-      "aliquam sollicitudin arcu. Ut non metus sed massa pellentesque ultricies et in elit."
-      " Cras vitae placerat dui. In accumsan elit nec turpis tempus, in maximus augue venenatis. "
-      "Nulla consectetur mollis purus, eget convallis leo ultrices quis. "
-      "Praesent scelerisque, dolor et viverra efficitur, neque ipsum suscipit odio, consequat dignissim ipsum enim quis lacus. "
-      "Duis viverra consequat ipsum vitae commodo. Nulla et sapien sit amet erat consectetur faucibus sed eu sem. Fusce sed mauris et metus porta rhoncus.";
+      " imperdiet nec lectus. Morbi eros enim, tempor vitae neque in";
 
 }
   List<Products> products = [

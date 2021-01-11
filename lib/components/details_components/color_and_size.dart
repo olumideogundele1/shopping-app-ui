@@ -46,6 +46,12 @@ class ColorAndSize extends StatelessWidget {
             )
           ],
         ),
+        Padding(
+          padding: EdgeInsets.symmetric(vertical: 10.0),
+          child: Text(products.description,style: TextStyle(
+            height: 1.5
+          ),),
+        )
       ],
     );
   }
